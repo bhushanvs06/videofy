@@ -1,0 +1,8 @@
+:root {
+    --primary: #3a86ff;
+    --secondary: #ff006e;
+    --dark: #2b2d42;
+    --light: #f8f9fa;
+    --gray: #8d99ae;
+    --transition-speed: 0.3s;
+  }
