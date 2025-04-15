@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/videofy/static/css/main.297522d9.css",
+    "main.js": "/videofy/static/js/main.36c1faa4.js",
+    "index.html": "/videofy/index.html",
+    "main.297522d9.css.map": "/videofy/static/css/main.297522d9.css.map",
+    "main.36c1faa4.js.map": "/videofy/static/js/main.36c1faa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.297522d9.css",
+    "static/js/main.36c1faa4.js"
+  ]
+}
