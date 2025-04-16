@@ -10,7 +10,7 @@ import { gsap } from 'gsap';
 
 const Home = () => {
   const videoData = {
-    all: [1, 2, 3, 4, 5, 6],
+    all: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
     music: [1, 5],
     gaming: [2, 6],
     movies: [1, 3],
@@ -33,7 +33,7 @@ const Home = () => {
       time: "2 days ago",
       duration: "12:34",
       thumbnail: "https://www.videograph.ai/wp-content/uploads/2024/09/videography-jpg.webp",
-      category: ["movies", "entertainment", "music"]
+      category: ["movies", "entertainment", "music","rending"]
     },
     2: {
       id: 2,
@@ -89,6 +89,117 @@ const Home = () => {
       duration: "14:07",
       thumbnail: "https://www.orangemantra.com/blog/wp-content/uploads/2024/01/Future-of-AI.png",
       category: ["technology", "science", "news", "gaming"]
+    },
+  
+    7: {
+      id: 7,
+      videoId: "3JZ_D3ELwOQ",
+      title: "Imagine Dragons - Believer (Official Music Video)",
+      channel: "ImagineDragonsVEVO",
+      views: "2.1B",
+      time: "5 years ago",
+      duration: "3:37",
+      thumbnail: "https://i.ytimg.com/vi/W0DM5lcj6mw/maxresdefault.jpg",
+      category: ["music", "entertainment"]
+    },
+    8: {
+      id: 8,
+      videoId: "kTJczUoc26U",
+      title: "Justin Bieber - Peaches ft. Daniel Caesar, Giveon",
+      channel: "JustinBieberVEVO",
+      views: "650M",
+      time: "2 years ago",
+      duration: "3:18",
+      thumbnail: "https://i.ytimg.com/vi/tQ0yjYUFKAE/maxresdefault.jpg",
+      category: ["music", "entertainment"]
+    },
+    9: {
+      id: 9,
+      videoId: "WrKL432F86Q",
+      title: "How James Cameron Shot Avatar 2 | Behind the Scenes",
+      channel: "Film Insider",
+      views: "3.2M",
+      time: "1 month ago",
+      duration: "11:02",
+      thumbnail: "https://i.ytimg.com/vi/Cimy6T1nczw/maxresdefault.jpg",
+      category: ["movies", "technology"]
+    },
+    10: {
+      id: 10,
+      videoId: "bMknfKXIFA8",
+      title: "React JS Full Course for Beginners | 2025 Edition",
+      channel: "freeCodeCamp.org",
+      views: "900K",
+      time: "3 weeks ago",
+      duration: "4:20:15",
+      thumbnail: "https://i.ytimg.com/vi/bMknfKXIFA8/maxresdefault.jpg",
+      category: ["education", "technology"]
+    },
+    11: {
+      id: 11,
+      videoId: "cIY95KCnnNk",
+      title: "Minecraft Speedrunner VS 5 Hunters GRAND FINALE",
+      channel: "Dream",
+      views: "45M",
+      time: "2 years ago",
+      duration: "58:45",
+      thumbnail: "https://i.ytimg.com/vi/kvnKdRKstsg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgqqw1ejHxiaNHbap-BUAx_mtkAg",
+      category: ["gaming", "entertainment"]
+    },
+    12: {
+      id: 12,
+      videoId: "R2vXbFp5C9o",
+      title: "Inside the World’s Toughest Prisons | Norway’s Halden Prison",
+      channel: "Netflix",
+      views: "8.2M",
+      time: "6 months ago",
+      duration: "47:21",
+      thumbnail: "https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcUIzLRGFM40PPzVeKI4SJnhV8dw15oGbUsDBkOMwSsqwnHyc_rnlxP94rZeZKKs_Pd1DgWf1iBf1_yxTO3DBjOI8ESt-lYwZL-B.jpg?r=545",
+      category: ["news", "education"]
+    },
+    13: {
+      id: 13,
+      videoId: "uf5cYGyo4Tw",
+      title: "Top 10 Space Discoveries That Changed the World",
+      channel: "SciShow Space",
+      views: "1.5M",
+      time: "2 months ago",
+      duration: "13:15",
+      thumbnail: "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2xhdGVzdC11bml2ZXJzZS1kaXNjb3Zlcmllcy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==",
+      category: ["science", "education"]
+    },
+    14: {
+      id: 14,
+      videoId: "yBqS1lcUQzY",
+      title: "Tokyo Travel Guide - Best Places To Visit in 2025",
+      channel: "Expedia",
+      views: "4.7M",
+      time: "3 months ago",
+      duration: "17:35",
+      thumbnail: "https://i.ytimg.com/vi/_cN-QS39HVY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCGvLayLLZN27m0uDYzvxbr5PPslg",
+      category: ["travel", "entertainment"]
+    },
+    15: {
+      id: 15,
+      videoId: "0wCC3E5qG_E",
+      title: "How to Start Investing in 2025 (Beginner Guide)",
+      channel: "Graham Stephan",
+      views: "2.9M",
+      time: "1 week ago",
+      duration: "20:01",
+      thumbnail: "https://cdn.ramseysolutions.net/media/blog/retirement/investing/how-to-start-investing.jpg",
+      category: ["education", "news"]
+    },
+    16: {
+      id: 16,
+      videoId: "wGQoL1Ztl-g",
+      title: "Live Nature Cam - Relaxing Sounds of Forest and River",
+      channel: "Nature Relaxation",
+      views: "20K watching now",
+      time: "Live",
+      duration: "Live",
+      thumbnail: "https://i.ytimg.com/vi/F1gK85IEeDI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBmFUhrBVPsmHQSIseodCda4x4yxw",
+      category: ["live", "travel", "science"]
     }
   };
 
