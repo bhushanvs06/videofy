@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Sidebar.css';
 
 const Sidebar = ({ activeCategory, setActiveCategory }) => {
-  const [isActive, setIsActive] = useState(true);
+  const [isActive, setIsActive] = useState(false);
   const [showProfile, setShowProfile] = useState(false);
 
   const sidebarItems = [
