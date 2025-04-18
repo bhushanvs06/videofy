@@ -18,7 +18,7 @@
 
 ## 🔺 Live Demo
 
-[🚀 Watch it live](https://your-demo-link.com)
+[🚀 Watch it live](https://videofy-teal.vercel.app/)
 
 > *(Optional: add a preview GIF or screenshot here)*
 
