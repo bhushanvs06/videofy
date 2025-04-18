@@ -27,8 +27,6 @@
 
 ## 🔺 Folder Structure
 
-## 📁 Project Folder Structure
-
 ```text
 Videofy/
 ├── public/
