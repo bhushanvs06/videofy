@@ -20,7 +20,8 @@
 
 [🚀 Watch it live](https://videofy-teal.vercel.app/)
 
-> *(Optional: add a preview GIF or screenshot here)*
+ ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/6399d7ae-dbf3-49ad-b796-178272bc3761)
+
 
 ---
 
