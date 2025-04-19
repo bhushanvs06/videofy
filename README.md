@@ -1,6 +1,6 @@
 # 🔺 Videofy
 
-**Videofy** is a modern, video-based web platform built using **React**. It features smooth animations, infinite scrolling, and interactive videos with like, dislike, and bookmark support. The layout is fully responsive, ensuring a seamless experience on both mobile and desktop.
+**Videofy** is a modern, video-based web platform built using **React**. It features smooth animations, infinite scrolling, and interactive videos with like and dislike . The layout is fully responsive, ensuring a seamless experience on both mobile and desktop.
 
 ---
 
@@ -9,7 +9,7 @@
 - ⚛️ Built with React
 - 🎞️ GSAP-based smooth animations
 - 🔁 Infinite scroll for seamless content browsing
-- 👍 Like / 👎 Dislike / 📌 Bookmark video interactions
+- 👍 Like / 👎 Dislike 
 - 📱 Fully responsive design
 - 🧩 Modular component architecture
 - ✨ Clean and user-friendly UI
